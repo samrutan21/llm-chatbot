@@ -1,0 +1,9 @@
+tenacity!=8.4.0
+langchain==0.3.9
+langchain-ollama>=0.0.2
+streamlit==1.35.0
+langchainhub==0.1.21
+langchain-neo4j==0.1.1
+neo4j==5.27.0
+requests>=2.31.0
+langchain-community==0.1.1
